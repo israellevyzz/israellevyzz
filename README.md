@@ -3,6 +3,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer and Designer
 ----------------------
+<div align="left">
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlzc2R3OXpwcTIxNjFja2w4Z2V5eWZoNXh5Y2lxNHkwYzk1cDdkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
+</div>
+
+###
 
 💻 Estudante de Engenharia de Software | Apaixonado por programação e novas tecnologias | Sempre explorando projetos em HTML, CSS, JavaScript e mais | Em busca de aprendizado contínuo e desafios que me façam crescer 🚀
 
