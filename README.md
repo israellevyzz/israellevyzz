@@ -1,10 +1,6 @@
-Hello World! I'm Israel Levy
-====================================================================================================================================
+![Header](./github-header-banner.png)
 
-Dev and Designer
-----------------------
-
-💻 Estudante de Engenharia de Software | Apaixonado por programação e novas tecnologias | Sempre explorando projetos em HTML, CSS, JavaScript e mais | Em busca de aprendizado contínuo e desafios que me façam crescer 🚀
+💻Sou estudante de Engenharia de Software | Apaixonado por programação e novas tecnologias | Sempre explorando projetos em HTML, CSS, JavaScript, Python e mais | Em busca de aprendizado contínuo e desafios que me façam crescer 🚀
 
 <div align="left">
 </div>
