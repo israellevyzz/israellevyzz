@@ -1,3 +1,7 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%E2%8A%B9+%E2%82%8A+Welcome+to+my+Profile++%E2%82%8A+%E2%8A%B9+" alt="Typing SVG" /></a>
+</div>
+
 ![Header](./github-header-banner.png)
 
 💻Sou estudante de Engenharia de Software | Apaixonado por programação e novas tecnologias | Sempre explorando projetos em HTML, CSS, JavaScript, Python e mais | Em busca de aprendizado contínuo e desafios que me façam crescer 🚀
