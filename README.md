@@ -2,7 +2,6 @@
 
 💻Sou estudante de Engenharia de Software | Apaixonado por programação e novas tecnologias | Sempre explorando projetos em HTML, CSS, JavaScript, Python e mais | Em busca de aprendizado contínuo e desafios que me façam crescer 🚀
 
-<div align="center">
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="100" height="100" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="100" height="100" /></a>
@@ -16,11 +15,16 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="100" height="100" />
 </a>
+  
 </p>
 
-</div>
-
+<div>
+  
+<hr>
 
 <div align="center">
-<a href="https://github.com/israellevyzz" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israellevyzz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=israellevyzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israellevyzz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
+
+###
