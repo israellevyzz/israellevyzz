@@ -4,7 +4,7 @@
 
 <img align="center" alt="" src="./src/ISRAEL-LEVY-LIMA.gif">
 
-#
+# 
 <p align="center">💻Sou estudante de Engenharia de Software | Apaixonado por programação e novas tecnologias | Sempre explorando projetos em HTML, CSS, JavaScript, Python e mais | Em busca de aprendizado contínuo e desafios que me façam crescer 🚀
 
 #
